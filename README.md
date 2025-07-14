@@ -45,4 +45,4 @@ npm start
 - `npm start`: Inicia el servidor json-server.
 
 ## Contacto
-Incluye tu nombre, clan y documento en este archivo si lo requieres para la entrega.
+Miguel angel Cuadros Gallego, goslin CC:1020109048
