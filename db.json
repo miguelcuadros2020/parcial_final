@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "username": "usuario",
+      "password": "usuario123",
+      "role": "visitante",
+      "id": "2"
+    },
+    {
+      "id": "f02e",
+      "username": "miguel",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": "58c6",
+      "username": "123",
+      "password": "123",
+      "role": "visitante"
+    },
+    {
+      "id": "bf17",
+      "username": "11",
+      "password": "11",
+      "role": "visitante"
+    },
+    {
+      "id": "fe1f",
+      "username": "22",
+      "password": "22",
+      "role": "admin"
+    }
+  ],
+  "events": []
+}

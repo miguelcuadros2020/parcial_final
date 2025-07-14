@@ -1,0 +1,17 @@
+{
+  "name": "miguelangelcuadrosgallego123",
+  "version": "1.0.0",
+  "description": "SPA para gestión de eventos con autenticación y roles",
+  "main": "ejercicio.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {
+    "vite": "^7.0.4"
+  }
+}
