@@ -37,5 +37,27 @@
       "role": "admin"
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "fc4d",
+      "nombre": "holaaa",
+      "descripcion": "qwerty",
+      "capacidad": "2",
+      "registrados": [
+        "11",
+        "123"
+      ]
+    },
+    {
+      "id": "7614",
+      "nombre": "manito",
+      "descripcion": "mani manito",
+      "capacidad": "3",
+      "registrados": [
+        "11",
+        "123",
+        "usuario"
+      ]
+    }
+  ]
 }
